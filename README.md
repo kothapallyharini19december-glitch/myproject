@@ -1,0 +1,2 @@
+# myproject
+my msc project
